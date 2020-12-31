@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(29, 29, 29);
+}
+
+.title {
+    text-align: center;
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.desc {
+    text-align: center;
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.post {
+    display: block;
+    border: 1px solid white;
+    border-radius: 1px;
+    padding: auto;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.back {
+    display: block;
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.post-title {
+    color: white;
+    padding-left: 10px;
+    display: block;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+.post-desc {
+    color: white;
+    display: block;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+.read {
+    color:black;
+    display: block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
